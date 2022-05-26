@@ -1,7 +1,6 @@
 package application.dtos;
 
 import application.persistence.entities.Sale;
-import application.persistence.entities.Transaction;
 import lombok.Data;
 
 import javax.validation.constraints.NotNull;
